@@ -1,4 +1,5 @@
 - 👋  Hi, I’m @LoganTheHippo
+- 🏢  I'm helping make smarter, better home insurance at [Hippo.com](https://hippo.com)
 - 👀  I’m interested in workflow automation, 3D printing, gaming, and programming.
 - 📫  How to reach me: loganmcghee.com
 - 💪  Personal account: [github/lmcghee](https://github.com/lmcghee)
